@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fateh Muhammad</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatehmuhammad22&label=Profile%20views&color=0e75b6&style=flat" alt="fatehmuhammad22" /> </p>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg">
--I am a 1st Year Undergrad pursuing Bachelors in Computer Science from FAST NUCES
+-I am a 2nd Year Undergrad pursuing Bachelors in Computer Science from FAST NUCES
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Python**
 
 - 📫 You can reach me at **fateh.m0101@gmail.com**
 
